@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.domus.smarthome.domus.app-mergeDebugResources-20:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ETUDIANT\\AndroidStudioProjects\\smart-home-app\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "3,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,1083",
+                        "endLines": "11,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "736,1247"
+                    },
+                    "to": {
+                        "startLines": "2,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,507",
+                        "endLines": "9,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "502,671"
+                    }
+                }
+            ]
+        }
+    ]
+}
